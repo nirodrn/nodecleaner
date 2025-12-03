@@ -51,15 +51,15 @@ You can convert this script into a standalone executable that runs without Pytho
    pip install pyinstaller
    ```
 2. **Build**:
-   - **Windows (Console)**: `pyinstaller --onefile node_modules_cleaner.py`
-   - **Windows (GUI)**: `pyinstaller --onefile --noconsole node_modules_cleaner_gui.py`
-3. **Locate**: Find your `.exe` file in the `dist/` folder.
+   - **Windows**: Double-click `create_exe.bat`.
+   - **Linux/macOS**: Run `./create_exe.sh`.
+3. **Locate**: Find your executable in the `dist/` folder.
 
 ---
 
 ## Credits & License
 
-**Developer**: Nirod Ranasinghe
+**Developer**: R.A. Nirod Ranasinghe
 
 **License**: Licensed by **Detz Global Pvt Ltd**  
 **Website**: [detzglobal.com](https://detzglobal.com)
