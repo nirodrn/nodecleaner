@@ -1,0 +1,4 @@
+PySimpleGUI
+# Standard library imports like os, shutil, sys, threading, pathlib, platform are built-in.
+# PyInstaller is needed only for building the exe.
+PyInstaller

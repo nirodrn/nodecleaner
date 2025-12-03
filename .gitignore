@@ -1,0 +1,7 @@
+__pycache__/
+dist/
+build/
+*.spec
+*.log
+test_env/
+linux_test/
